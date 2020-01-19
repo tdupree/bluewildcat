@@ -1,1 +1,1 @@
-# bluewildcat
+# Blue Wildcat
